@@ -14,5 +14,22 @@
             <Button Content="Center"
                     Background="Red"/>
             </StackPanel >
+
+        <StackPanel
+     Height="50"
+     HorizontalAlignment="Right"
+     VerticalAlignment="Center">
+            <Button Content="Center"
+             Background="Black"/>
+        </StackPanel >
+
+
+        <StackPanel
+         Height="150"
+           HorizontalAlignment="Right"
+          VerticalAlignment="Stretch">
+            <Button Content="Center"
+        Background="Yellow"/>
+        </StackPanel >
     </Grid>
 </Window>
